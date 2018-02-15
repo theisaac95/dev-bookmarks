@@ -1,5 +1,7 @@
 # dev-bookmarks
 
+# References
+
 - [References](#references)
   - [Frontend](#frontend)
     - [Web Design](#web-design)
@@ -14,7 +16,7 @@
     - [Language](#language)
       - [JavaScript](#javascript)
       - [Ruby](#ruby)
-        - [Clearance](#clearance)
+        - [Libraries](#libraries)
   - [Articles](#articles)
 
 ## Frontend
@@ -134,10 +136,13 @@
 #### Ruby
 
 - [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/)
+- [Learn Ruby on Rails with the Best Free Online Tutorial | Ruby on Rails Tutorial by Michael Hartl |  Softcover.io](https://www.railstutorial.org/book)
 
-##### Clearance
+##### Libraries
 
 - [thoughtbot/clearance: Rails authentication with email &amp; password.](https://github.com/thoughtbot/clearance)
+
+- [thoughtbot/bourbon: A Lightweight Sass Tool Set](https://github.com/thoughtbot/bourbon)
 
 ## Articles
 
