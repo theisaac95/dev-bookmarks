@@ -137,6 +137,7 @@
 
 - [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/)
 - [Learn Ruby on Rails with the Best Free Online Tutorial | Ruby on Rails Tutorial by Michael Hartl |  Softcover.io](https://www.railstutorial.org/book)
+- [Ruby On Rails For Beginners - Social Web Application Development](http://railsforbeginners.com/)
 
 ##### Libraries
 
