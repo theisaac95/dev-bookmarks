@@ -142,8 +142,14 @@
 ##### Libraries
 
 - [thoughtbot/clearance: Rails authentication with email &amp; password.](https://github.com/thoughtbot/clearance)
+- [mkhairi/materialize-sass: Materialize Sass version for Rails Asset Pipeline](https://github.com/mkhairi/materialize-sass)
+- [Angelmmiguel/material_icons: A simple Rails wrapper for Google Material Icons](https://github.com/Angelmmiguel/material_icons)
 
-- [thoughtbot/bourbon: A Lightweight Sass Tool Set](https://github.com/thoughtbot/bourbon)
+**The Bourbon Family**
+  - [thoughtbot/bourbon: A Lightweight Sass Tool Set](https://github.com/thoughtbot/bourbon)
+  - [Neat - A Lightweight and flexible Sass grid](https://neat.bourbon.io/)
+  - [Bitters - Predefined Styles for Bourbon](http://bitters.bourbon.io/)
+  - [Refills - Patterns](http://refills.bourbon.io/)
 
 ## Articles
 
