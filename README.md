@@ -141,6 +141,8 @@
 
 ##### Libraries
 
+- [bootstrap-rubygem/_variables.scss at master · twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem/blob/master/assets/stylesheets/bootstrap/_variables.scss)
+
 - [thoughtbot/clearance: Rails authentication with email &amp; password.](https://github.com/thoughtbot/clearance)
 - [mkhairi/materialize-sass: Materialize Sass version for Rails Asset Pipeline](https://github.com/mkhairi/materialize-sass)
 - [Angelmmiguel/material_icons: A simple Rails wrapper for Google Material Icons](https://github.com/Angelmmiguel/material_icons)
