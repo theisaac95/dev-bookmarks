@@ -139,6 +139,10 @@
 - [Learn Ruby on Rails with the Best Free Online Tutorial | Ruby on Rails Tutorial by Michael Hartl |  Softcover.io](https://www.railstutorial.org/book)
 - [Ruby On Rails For Beginners - Social Web Application Development](http://railsforbeginners.com/)
 
+##### Threads
+
+- [virtualbox - Access rails server from host machine - Stack Overflow](https://stackoverflow.com/questions/28184845/access-rails-server-from-host-machine)
+
 ##### Libraries
 
 - [bootstrap-rubygem/_variables.scss at master · twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem/blob/master/assets/stylesheets/bootstrap/_variables.scss)
