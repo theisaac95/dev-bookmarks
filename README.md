@@ -133,11 +133,23 @@
 
 - [The Modern JavaScript Tutorial](http://javascript.info/)
 
-#### Ruby
+#### Ruby on Rails
 
 - [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/)
 - [Learn Ruby on Rails with the Best Free Online Tutorial | Ruby on Rails Tutorial by Michael Hartl |  Softcover.io](https://www.railstutorial.org/book)
 - [Ruby On Rails For Beginners - Social Web Application Development](http://railsforbeginners.com/)
+- [Guides - Rails Girls](http://guides.railsgirls.com/)
+
+---
+
+- [Home - Devblast](https://devblast.com/)
+
+---
+
+**Mailer**
+
+- [Send emails in development with Letter Opener - Devblast](https://devblast.com/b/jutsu-9-send-emails-development-letter-opener)
+- [Code Fellows | Tutorial How to Set up a Rails 4.2 Mailer with Sidekiq](https://devblast.com/b/jutsu-9-send-emails-development-letter-opener)
 
 ##### Threads
 
