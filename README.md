@@ -155,7 +155,9 @@
 ---
 
 **Elastic Search**
+
 - [Installing Elasticsearch Step by Step](https://www.youtube.com/watch?v=yVOcFMe9I4c)
+- [iridakos - Using elasticsearch in a Rails application` ](https://iridakos.com/tutorials/2017/12/03/elasticsearch-and-rails-tutorial.html)
 
 ##### Threads
 
