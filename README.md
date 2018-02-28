@@ -151,6 +151,7 @@
 - [Rails Mailer Tutorial – Eric Schwartz – Medium](https://medium.com/@ericschwartz7/rails-mailer-tutorial-82700f6737d9)
 - [Send emails in development with Letter Opener - Devblast](https://devblast.com/b/jutsu-9-send-emails-development-letter-opener)
 - [Code Fellows | Tutorial How to Set up a Rails 4.2 Mailer with Sidekiq](https://devblast.com/b/jutsu-9-send-emails-development-letter-opener)
+- [Documentation for elasticsearch-model (5.0.2)](http://www.rubydoc.info/gems/elasticsearch-model)
 
 ---
 
