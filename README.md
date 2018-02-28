@@ -152,6 +152,11 @@
 - [Send emails in development with Letter Opener - Devblast](https://devblast.com/b/jutsu-9-send-emails-development-letter-opener)
 - [Code Fellows | Tutorial How to Set up a Rails 4.2 Mailer with Sidekiq](https://devblast.com/b/jutsu-9-send-emails-development-letter-opener)
 
+---
+
+**Elastic Search**
+- [Installing Elasticsearch Step by Step](https://www.youtube.com/watch?v=yVOcFMe9I4c)
+
 ##### Threads
 
 - [virtualbox - Access rails server from host machine - Stack Overflow](https://stackoverflow.com/questions/28184845/access-rails-server-from-host-machine)
