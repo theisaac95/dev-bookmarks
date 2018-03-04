@@ -79,6 +79,8 @@
   - writing effect
 - [sdorica](https://www.zh.sdorica.com/)
   - cool fixed background video
+- [1→10Robotics, Inc.](https://1-10robotics.com/)
+- [MONOTO-SITUATION : LUCID AND DAYDREAM](http://monoto-situation.com/)
 
 ### Useful
 
