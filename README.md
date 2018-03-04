@@ -44,6 +44,10 @@
 - [ズロック｜Webデザインのリンク集](http://www.zzrock.net/)
 - [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 - [CSS Design Awards - Website Awards & Inspiration - CSS Gallery - CSSDA](https://www.cssdesignawards.com/)
+- [One Page Love](https://onepagelove.com/)
+- [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
+- [FORM::PROCESS](http://www.form-process.com/index.html)
+- [Grids : Design Inspiration and Showcase](http://grids.qoopu.net/en/)
 
 ---
 
@@ -81,6 +85,7 @@
   - cool fixed background video
 - [1→10Robotics, Inc.](https://1-10robotics.com/)
 - [MONOTO-SITUATION : LUCID AND DAYDREAM](http://monoto-situation.com/)
+- [ertdfgcvb](https://ertdfgcvb.xyz/)
 
 ### Useful
 
