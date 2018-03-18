@@ -126,6 +126,8 @@
 - [three.js - Javascript 3D Library](https://threejs.org/) ***
   - too massive
 
+- [jQuery Plugin](https://www.facebook.com/jqueryscript/?hc_ref=ARQ1x-PPJLh6CjGVs-qujdXp6Mfs7ajQ20uljcdJeBel1CrvWGQvo5RqbdtAEWGyx9U&fref=nf) ***
+
 ### Others
 
 - [Programmers imagine the most ridiculous ways to enter a phone number into a form](https://qz.com/679782/programmers-imagine-the-most-ridiculous-ways-to-input-a-phone-number/)
