@@ -48,6 +48,7 @@
 - [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
 - [FORM::PROCESS](http://www.form-process.com/index.html)
 - [Grids : Design Inspiration and Showcase](http://grids.qoopu.net/en/)
+- [The list for web designers | Designerslist](https://www.designerslist.info)
 
 ---
 
