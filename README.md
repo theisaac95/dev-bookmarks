@@ -107,6 +107,8 @@
 
 - [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)
 
+- [The Stocks 2 - Best royalty free stock photos, videos, mockups, icons and fonts](http://thestocks.im/)
+
 #### Free Images
 
 - [写真素材が無料！プロ撮影のフリー画像素材 .foto project](https://free.foto.ne.jp/)
